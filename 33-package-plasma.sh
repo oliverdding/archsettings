@@ -15,7 +15,6 @@ AddPackage ffmpegthumbs # FFmpeg-based thumbnail creator for video files
 AddPackage flatpak-kcm # Flatpak Permissions Management KCM
 AddPackage gwenview # A fast and easy to use image viewer
 AddPackage gst-plugin-pipewire # Multimedia graph framework - pipewire plugin
-AddPackage juk # A jukebox, tagger and music collection manager
 AddPackage kalk # A powerful cross-platform calculator application built with the Kirigami framework
 AddPackage kate # Advanced text editor
 AddPackage kdeconnect # Adds communication between KDE and your smartphone
@@ -24,6 +23,7 @@ AddPackage kdenetwork-filesharing # Properties dialog plugin to share a director
 AddPackage kdenlive # A non-linear video editor for Linux using the MLT video framework
 AddPackage kdepim-addons # Addons for KDE PIM applications
 AddPackage kdialog # A utility for displaying dialog boxes from shell scripts
+AddPackage kget # Download Manager
 AddPackage kimageformats # Image format plugins for Qt 6
 AddPackage kmail # KDE mail client
 AddPackage konsole # KDE terminal emulator
