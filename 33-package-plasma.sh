@@ -17,6 +17,7 @@ AddPackage gwenview # A fast and easy to use image viewer
 AddPackage gst-plugin-pipewire # Multimedia graph framework - pipewire plugin
 AddPackage kalk # A powerful cross-platform calculator application built with the Kirigami framework
 AddPackage kate # Advanced text editor
+AddPackage kcachegrind # Visualization of Performance Profiling Data
 AddPackage kdeconnect # Adds communication between KDE and your smartphone
 AddPackage kdegraphics-thumbnailers # Thumbnailers for various graphics file formats
 AddPackage kdenetwork-filesharing # Properties dialog plugin to share a directory with the local network
@@ -24,6 +25,7 @@ AddPackage kdenlive # A non-linear video editor for Linux using the MLT video fr
 AddPackage kdepim-addons # Addons for KDE PIM applications
 AddPackage kdialog # A utility for displaying dialog boxes from shell scripts
 AddPackage kget # Download Manager
+AddPackage kid3 # An MP3, Ogg/Vorbis and FLAC tag editor, KDE version
 AddPackage kimageformats # Image format plugins for Qt 6
 AddPackage kmail # KDE mail client
 AddPackage konsole # KDE terminal emulator
